@@ -7,7 +7,7 @@
 </HEAD>
 <BODY>
 
-<H1>WebApp Element Example</H1>
+<H1>WebApp Element 2 Example</H1>
 <img src="images/jbosscorp_logo.png">
 
 <h2>JVM Memory Monitor</h2>
